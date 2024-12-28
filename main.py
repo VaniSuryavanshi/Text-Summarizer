@@ -1,3 +1,3 @@
 from textSummarizer.logging import logger
 
-logger.INFO("Welcome to our Custom Logging")
+logger.info("Welcome to our Custom Logging")
